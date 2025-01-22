@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Profesores de Tiempo Completo (PTC)",
+        "image":"edificio_entre_ejes_ptc",
+        "description": "Los profesores de tiempo completo son pieza clave en la formación académica y profesional de los estudiantes. Entre sus principales actividades están:\n",
+        "functions": [
+            "Impartir clases: Diseñan y enseñan contenidos especializados de acuerdo con los programas de estudio.",
+            "Asesorías personalizadas: Ofrecen orientación académica y apoyo a los estudiantes para resolver dudas o reforzar temas.",
+            "Desarrollo de proyectos: Colaboran en proyectos de investigación, innovación y vinculación con el sector público y privado.",
+            "Tutorías: Acompañan a los estudiantes en su trayectoria académica, ayudándolos a superar retos y lograr sus objetivos.",
+            "Gestión académica: Participan en la mejora continua de los planes de estudio y actividades institucionales."
+        ],
+        "postdescription":"Su compromiso va más allá del aula, ya que contribuyen al desarrollo integral de los estudiantes y al fortalecimiento del Tecnológico.",
+        "schedule": "",
+        "teachers": [""],
+        "galery":[
+
+        ],
+        "building": 6, 
+        "category": "",
+        "unit":"PTC"
+    },
+    {
+        "id": 2,
+        "name": "Profesores de Tiempo Completo (PTC)",
+        "image":"edificio_morelos_ptc",
+        "description": "Los profesores de tiempo completo son pieza clave en la formación académica y profesional de los estudiantes. Entre sus principales actividades están:\n",
+        "functions": [
+            "Impartir clases: Diseñan y enseñan contenidos especializados de acuerdo con los programas de estudio.",
+            "Asesorías personalizadas: Ofrecen orientación académica y apoyo a los estudiantes para resolver dudas o reforzar temas.",
+            "Desarrollo de proyectos: Colaboran en proyectos de investigación, innovación y vinculación con el sector público y privado.",
+            "Tutorías: Acompañan a los estudiantes en su trayectoria académica, ayudándolos a superar retos y lograr sus objetivos.",
+            "Gestión académica: Participan en la mejora continua de los planes de estudio y actividades institucionales."
+        ],
+        "postdescription":"Su compromiso va más allá del aula, ya que contribuyen al desarrollo integral de los estudiantes y al fortalecimiento del Tecnológico.",
+        "schedule": "",
+        "teachers": [""],
+        "galery":[
+            
+        ],
+        "building": 2,
+        "category": "",
+        "unit":"PTC"
+    }, 
+    {
+        "id": 3,
+        "name": "Profesores de Tiempo Completo (PTC)",
+        "image":"edificio_biblioteca_ptc_1",
+        "description": "Los profesores de tiempo completo son pieza clave en la formación académica y profesional de los estudiantes. Entre sus principales actividades están:\n",
+        "functions": [
+            "Impartir clases: Diseñan y enseñan contenidos especializados de acuerdo con los programas de estudio.",
+            "Asesorías personalizadas: Ofrecen orientación académica y apoyo a los estudiantes para resolver dudas o reforzar temas.",
+            "Desarrollo de proyectos: Colaboran en proyectos de investigación, innovación y vinculación con el sector público y privado.",
+            "Tutorías: Acompañan a los estudiantes en su trayectoria académica, ayudándolos a superar retos y lograr sus objetivos.",
+            "Gestión académica: Participan en la mejora continua de los planes de estudio y actividades institucionales."
+        ],
+        "postdescription":"Su compromiso va más allá del aula, ya que contribuyen al desarrollo integral de los estudiantes y al fortalecimiento del Tecnológico.",
+        "schedule": "",
+        "teachers": [""],
+        "galery":[
+            "edificio_biblioteca_ptc_1",
+            "edificio_biblioteca_ptc_2"
+        ],
+        "building": 7,
+        "category": "",
+        "unit":"PTC"
+    },
+    {
+        "id": 4,
+        "name": "Profesores de Tiempo Completo (PTC) de Electrónica",
+        "image":"edificio_entre_ejes_ptc_electronica",
+        "description": "Los profesores de tiempo completo son pieza clave en la formación académica y profesional de los estudiantes. Entre sus principales actividades están:\n",
+        "functions": [
+            "Impartir clases: Diseñan y enseñan contenidos especializados de acuerdo con los programas de estudio.",
+            "Asesorías personalizadas: Ofrecen orientación académica y apoyo a los estudiantes para resolver dudas o reforzar temas.",
+            "Desarrollo de proyectos: Colaboran en proyectos de investigación, innovación y vinculación con el sector público y privado.",
+            "Tutorías: Acompañan a los estudiantes en su trayectoria académica, ayudándolos a superar retos y lograr sus objetivos.",
+            "Gestión académica: Participan en la mejora continua de los planes de estudio y actividades institucionales."
+        ],
+        "postdescription":"Su compromiso va más allá del aula, ya que contribuyen al desarrollo integral de los estudiantes y al fortalecimiento del Tecnológico.",
+        "schedule": "",
+        "teachers": [""],
+        "galery":[
+            
+        ],
+        "building": 6, 
+        "category": "",
+        "unit":"PTC"
+    }
+]

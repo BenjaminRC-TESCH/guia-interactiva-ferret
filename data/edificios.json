@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name":"Nezahualcóyotl",
+        "image":"edificio_neza",
+        "description":"",
+        "unit":"Edificios"
+    },
+    { 
+        "id":2,
+        "name":"José María Morelos y Pavón",
+        "image":"edificio_morelos",
+        "description":"",
+        "unit":"Edificios"
+    }, 
+    {
+        "id":3,
+        "name":"Bicentenario de la Independencia",
+        "image":"edificio_bicentenario",
+        "description":"",
+        "unit":"Edificios"
+    },
+    {
+        "id":4,
+        "name":"Centenario de la Revolución",
+        "image":"edificio_revolucion",
+        "description":"",
+        "unit":"Edificios"
+    },
+    {
+        "id":5,
+        "name":"Sor Juana Inés de la Cruz",
+        "image":"edificio_sor_juana",
+        "description":"",
+        "unit":"Edificios"
+    },
+    {
+        "id":6,
+        "name":"Entre Ejes",
+        "image":"edificio_entre_ejes_salones_c",
+        "description":"",
+        "unit":"Edificios"
+    },
+    {
+        "id":7,
+        "name":"Biblioteca",
+        "image":"edificio_biblioteca",
+        "description":"",
+        "unit":"Edificios"
+    },
+    {
+        "id":8,
+        "name":"Salones cancha de basquetbol",
+        "image":"edificio_gallineros",
+        "description":"",
+        "unit":"Edificios"
+    }
+]

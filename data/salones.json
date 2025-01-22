@@ -1,0 +1,165 @@
+[
+    {
+        "id":1,
+        "name":"Salones A",
+        "image":"edificio_neza_salon_a1",
+        "description":"Los salones del Tecnológico son espacios dedicados al aprendizaje teórico y práctico. Aquí puedes:\n",
+        "functions":[
+            "Asistir a clases: Recibe explicaciones y participa en discusiones con tus docentes y compañeros.", 
+            "Resolver ejercicios y casos prácticos: Aplica lo aprendido en problemas reales relacionados con tu carrera.", 
+            "Trabajar en equipo: Colabora en proyectos y actividades grupales para desarrollar habilidades de comunicación y liderazgo.", 
+            "Prepararte para exámenes y presentaciones: Participa en sesiones de repaso, exposiciones y dinámicas."
+        ],
+        "postdescription":"Los salones están diseñados para que aproveches al máximo tu formación académica en un ambiente cómodo y profesional.",
+        "galery":[
+            "edificio_neza_salon_a1",
+            "edificio_neza_salon_a2",
+            "edificio_neza_salon_a3",
+            "edificio_neza_salon_a5",
+            "edificio_neza_salon_a8",
+            "edificio_neza_salon_a10",
+            "edificio_neza_salon_a12",
+            "edificio_neza_salon_a13",
+            "edificio_neza_salon_a14",
+            "edificio_neza_salon_a16",
+            "edificio_neza_salon_a17",
+            "edificio_neza_salon_a18",
+            "edificio_neza_salon_a_interior_1",
+            "edificio_neza_salon_a_interior_2",
+            "edificio_neza_salon_a_interior_3"
+        ],
+        "category":"",
+        "building":1,
+        "unit":"Salones"
+    },
+    {
+        "id":2,
+        "name":"Salones C y D",
+        "image":"edificio_entre_ejes_salones_c",
+        "description":"Los salones del Tecnológico son espacios dedicados al aprendizaje teórico y práctico. Aquí puedes:\n",
+        "functions":[
+            "Asistir a clases: Recibe explicaciones y participa en discusiones con tus docentes y compañeros.", 
+            "Resolver ejercicios y casos prácticos: Aplica lo aprendido en problemas reales relacionados con tu carrera.", 
+            "Trabajar en equipo: Colabora en proyectos y actividades grupales para desarrollar habilidades de comunicación y liderazgo.", 
+            "Prepararte para exámenes y presentaciones: Participa en sesiones de repaso, exposiciones y dinámicas."
+        ],
+        "postdescription":"Los salones están diseñados para que aproveches al máximo tu formación académica en un ambiente cómodo y profesional.",
+        "galery":[
+            "edificio_entre_ejes_salones_c",
+            "edificio_entre_ejes_salones_d"
+        ],
+        "category":"",
+        "building":6,
+        "unit":"Salones"
+    },
+    {
+        "id":3,
+        "name":"Salones G",
+        "image":"edificio_sor_juana_salon_g1",
+        "description":"Los salones del Tecnológico son espacios dedicados al aprendizaje teórico y práctico. Aquí puedes:\n",
+        "functions":[
+            "Asistir a clases: Recibe explicaciones y participa en discusiones con tus docentes y compañeros.", 
+            "Resolver ejercicios y casos prácticos: Aplica lo aprendido en problemas reales relacionados con tu carrera.", 
+            "Trabajar en equipo: Colabora en proyectos y actividades grupales para desarrollar habilidades de comunicación y liderazgo.", 
+            "Prepararte para exámenes y presentaciones: Participa en sesiones de repaso, exposiciones y dinámicas."
+        ],
+        "postdescription":"Los salones están diseñados para que aproveches al máximo tu formación académica en un ambiente cómodo y profesional.",
+        "galery":[
+            "edificio_sor_juana_salon_g1",
+            "edificio_sor_juana_salon_g2",
+            "edificio_sor_juana_salon_g8",
+            "edificio_sor_juana_salon_g9"
+        ],
+        "category":"",
+        "building":5,
+        "unit":"Salones"
+    },
+    {
+        "id":4,
+        "name":"Salones F",
+        "image":"edificio_revolucion_salon_f1",
+        "description":"Los salones del Tecnológico son espacios dedicados al aprendizaje teórico y práctico. Aquí puedes:\n",
+        "functions":[
+            "Asistir a clases: Recibe explicaciones y participa en discusiones con tus docentes y compañeros.", 
+            "Resolver ejercicios y casos prácticos: Aplica lo aprendido en problemas reales relacionados con tu carrera.", 
+            "Trabajar en equipo: Colabora en proyectos y actividades grupales para desarrollar habilidades de comunicación y liderazgo.", 
+            "Prepararte para exámenes y presentaciones: Participa en sesiones de repaso, exposiciones y dinámicas."
+        ],
+        "postdescription":"Los salones están diseñados para que aproveches al máximo tu formación académica en un ambiente cómodo y profesional.",
+        "galery":[
+            "edificio_revolucion_salon_f1",
+            "edificio_revolucion_salon_f9",
+            "edificio_revolucion_salon_f10",
+            "edificio_revolucion_salon_f12",
+            "edificio_revolucion_salon_f15"
+        ],
+        "category":"",
+        "building":4,
+        "unit":"Salones"
+    },
+    {
+        "id":5,
+        "name":"Salones E",
+        "image":"edificio_bicentenario_salon_e1",
+        "description":"Los salones del Tecnológico son espacios dedicados al aprendizaje teórico y práctico. Aquí puedes:\n",
+        "functions":[
+            "Asistir a clases: Recibe explicaciones y participa en discusiones con tus docentes y compañeros.", 
+            "Resolver ejercicios y casos prácticos: Aplica lo aprendido en problemas reales relacionados con tu carrera.", 
+            "Trabajar en equipo: Colabora en proyectos y actividades grupales para desarrollar habilidades de comunicación y liderazgo.", 
+            "Prepararte para exámenes y presentaciones: Participa en sesiones de repaso, exposiciones y dinámicas."
+        ],
+        "postdescription":"Los salones están diseñados para que aproveches al máximo tu formación académica en un ambiente cómodo y profesional.",
+        "galery":[
+            "edificio_bicentenario_salon_e1",
+            "edificio_bicentenario_salon_e6_e9",
+            "edificio_bicentenario_salon_e10_e14"
+        ],
+        "category":"",
+        "building":3,
+        "unit":"Salones"
+    },
+    {
+        "id": 6,
+        "name": "Aulas Interactivas",
+        "image": "edificio_neza_aulas_interactivas_2",
+        "description": "Las aulas interactivas están diseñadas para potenciar el aprendizaje con el apoyo de tecnología de vanguardia. Aquí puedes:\n\n",
+        "functions": [
+            "Recibir clases dinámicas: Los docentes utilizan herramientas tecnológicas como proyectores, pizarras digitales e internet para enriquecer las lecciones.", 
+            "Participar en actividades prácticas: Resolver problemas, realizar simulaciones y participar en ejercicios interactivos para aplicar los conocimientos adquiridos.", 
+            "Desarrollar proyectos colaborativos: Trabajar en equipo con recursos digitales para investigar, crear y presentar tus ideas.", 
+            "Tomar capacitaciones y talleres: Asistir a sesiones enfocadas en el desarrollo de habilidades específicas mediante el uso de software y tecnología.", 
+            "Acceder a contenidos multimedia: Visualizar videos, gráficos y presentaciones que complementan las asignaturas."
+        ],
+        "postdescription":"Las aulas interactivas son espacios modernos que transforman tu experiencia educativa",
+        "galery":[
+            "edificio_neza_aulas_interactivas_1",
+            "edificio_neza_aulas_interactivas_2",
+            "edificio_neza_aulas_interactivas_3"
+        ],
+        "category": "",
+        "building": 1,
+        "unit": "Salones"
+    },
+    {
+        "id": 7,
+        "name": "Aulas Interactivas",
+        "image": "edificio_bicentenario_aulas_interactivas_3",
+        "description": "Las aulas interactivas están diseñadas para potenciar el aprendizaje con el apoyo de tecnología de vanguardia. Aquí puedes:\n\n",
+        "functions": [
+            "Recibir clases dinámicas: Los docentes utilizan herramientas tecnológicas como proyectores, pizarras digitales e internet para enriquecer las lecciones.", 
+            "Participar en actividades prácticas: Resolver problemas, realizar simulaciones y participar en ejercicios interactivos para aplicar los conocimientos adquiridos.", 
+            "Desarrollar proyectos colaborativos: Trabajar en equipo con recursos digitales para investigar, crear y presentar tus ideas.", 
+            "Tomar capacitaciones y talleres: Asistir a sesiones enfocadas en el desarrollo de habilidades específicas mediante el uso de software y tecnología.", 
+            "Acceder a contenidos multimedia: Visualizar videos, gráficos y presentaciones que complementan las asignaturas."
+        ],
+        "postdescription":"Las aulas interactivas son espacios modernos que transforman tu experiencia educativa",
+        "galery":[
+            "edificio_bicentenario_aulas_interactivas_1",
+            "edificio_bicentenario_aulas_interactivas_2",
+            "edificio_bicentenario_aulas_interactivas_3"
+        ],
+        "category": "",
+        "building": 3,
+        "unit": "Salones"
+  }
+]

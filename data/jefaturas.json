@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "name": "Ingeniería en Sistemas Computacionales",
+        "image": "edificio_bicentenario_jefatura_sistemas",
+        "organigramaImage":"organigrama_sistemas",
+        "description": "¡Bienvenidos a Ingeniería en Sistemas Computacionales! \n\nInicias un camino que transformará tu vida personal, profesional y académica. En esta casa de estudios encontrarás conocimientos, disciplina y el apoyo de docentes, estudiantes y personal administrativo para construir tu futuro con firmeza. Aprovecha cada oportunidad, porque estudiar es un privilegio y una herramienta para alcanzar tus metas. \n\n¡Somos Orgullosamente TESCHA ISC y estamos emocionados de tenerte aquí! Para resolver tus dudas en cuanto a Docentes, asignaturas o actividades. Acércate al Jefe de carrera. ¡Con gusto te atenderá!",
+        "functions": [
+            
+        ],
+        "schedule": "Lunes a Viernes de 09:00 a 15:00 y de 16:00 a 18:00",
+        "mail": "jefatura.sistemas@tesch.edu.mx",
+        "phone": "(55) 59820848 y (55) 59821089 Ext.1127",
+        "web":"",
+        "facebook":"https://www.facebook.com/sistematescha/",
+        "category": "Académicos",
+        "building":3,
+        "unit":"Jefaturas",
+        "contact": 1
+    }, 
+    {
+        "id": 2,
+        "name": "Ingeniería Informática",
+        "image": "edificio_bicentenario_jefatura_informatica",
+        "organigramaImage":"organigrama_informatica",
+        "description": "Te felicito por dar este gran paso hacia tu formación profesional. Durante los próximos nueve semestres, enfrentarás retos que te convertirán en un profesionista ético y comprometido con la sociedad y el desarrollo tecnológico. \n\nEn el TESCHA encontrarás aulas interactivas, laboratorios, un centro de información y espacios que te apoyarán en tu aprendizaje. Solo necesitas aportar tu compromiso, dedicación y actitud para trabajar junto a nuestros docentes en este emocionante viaje. \n\nPrepárate para aprovechar todas las oportunidades y construir tu futuro profesional. ¡Bienvenido a tu segunda casa!",
+        "functions": [
+
+        ],
+        "schedule": "Lunes a Viernes de 09:00 a 15:00 y de 16:00 a 18:00",
+        "mail": "jefatura.informatica@tesch.edu.mx",
+        "phone": "(55) 59820848 y (55) 59821089 Ext.1123",
+        "web":"https://tescha-informatica.net",
+        "facebook":"https://www.facebook.com/TESCHA-informatica/",
+        "category": "Académicos",
+        "building":3,
+        "unit":"Jefaturas",
+        "contact": 1
+    },
+    {
+        "id": 3,
+        "name": "Ingeniería Electromecánica",
+        "image": "edificio_bicentenario_jefatura_electromecanica",
+        "organigramaImage":"organigrama_electromecanica",
+        "description": "¡Bienvenido a Ingeniería Electromecánica!\n\n¡Es un honor recibirte en esta fascinante aventura hacia tu título universitario y un futuro profesional brillante! La carrera de Ingeniería Electromecánica en el Tecnológico de Estudios Superiores de Chalco está diseñada para formarte con excelencia académica, respaldada por instalaciones de calidad y una sólida tradición en la disciplina.\n\nNuestro objetivo es formarte como un ingeniero líder y emprendedor, capaz de analizar, diseñar, instalar e innovar sistemas electromecánicos de manera eficiente, segura y sustentable. Todo esto bajo estándares nacionales e internacionales, con un enfoque ético, humanístico y social para destacar en el mundo profesional.\n\nPara cualquier duda sobre Docentes, asignaturas o actividades, acércate con el Jefe de Carrera",
+        "functions": [
+
+        ],
+        "schedule": "Lunes a Viernes de 10:00 a 14:00 y de 16:00 a 18:00",
+        "mail": "jefatura.electromecanica@tesch.edu.mx",
+        "phone": "(55) 59820848 y 59821089 Ext.1119",
+        "web":"",
+        "facebook":"",
+        "category": "Académicos",
+        "building":3,
+        "unit":"Jefaturas",
+        "contact": 1
+    },
+    {
+        "id": 4,
+        "name": "Ingeniería Electrónica",
+        "image": "edificio_bicentenario_jefatura_electronica_administracion",
+        "organigramaImage":"organigrama_electronica",
+        "description": "¡Bienvenidos y bienvenidas a una etapa que definirá su futuro profesional! En esta carrera, juntos trabajaremos para que se conviertan en ingenieros e ingenieras que transformen nuestra sociedad y país. \n\nAprovechen cada asignatura, práctica y experiencia que vivirán en el Tecnológico. Este es solo el inicio de un camino lleno de retos y grandes logros.\n\n¡Éxito en este emocionante viaje hacia su futuro!\n\nPara resolver tus dudas en cuanto a Docentes, asignaturas o actividades. Acércate al Jefe de carrera. ¡Con gusto te atenderá!",
+        "functions": [
+
+        ],
+        "schedule": "Lunes a Viernes de 09:00 a 14:00 y de 15:00 a 17:00",
+        "mail": "jefatura.electronica@tesch.edu.mx",
+        "phone": "(55) 59820848 y 59821089 Ext.1122",
+        "web":"http://www.facebook.com/jefaturaelectronica.tescha",
+        "facebook":"",
+        "category": "Académicos",
+        "building":3,
+        "unit":"Jefaturas",
+        "contact": 1
+    },
+    {
+        "id": 5,
+        "name": "Ingeniería Industrial",
+        "image": "edificio_bicentenario_jefatura_industrial",
+        "organigramaImage":"organigrama_industrial",
+        "description": "¡Bienvenidos a la comunidad TESCHA! Han tomado un gran reto al elegir esta ingeniería, y con ello inician un camino emocionante lleno de aprendizaje y desafíos. Las ingenierías transforman problemas en soluciones aplicables a la industria y ustedes están aquí para marcar la diferencia.\n\nSu éxito dependerá de su compromiso, dedicación y esfuerzo.\n\nAtrévanse a ser extraordinarios. \n\nPara resolver tus dudas en cuanto a Docentes, asignaturas o actividades acércate a la jefatura de división. ¡Con gusto te atenderá!",
+        "functions": [
+
+        ],
+        "schedule": "Lunes a Viernes de 09:00 a 15:00 y de 16:00 a 18:00",
+        "mail": "jefatura.industrial@tesch.edu.mx",
+        "phone": "(55) 59820848 y 59821089 Ext.1120",
+        "web":"",
+        "facebook":"",
+        "category": "Académicos",
+        "building":3,
+        "unit":"Jefaturas",
+        "contact": 1
+    },
+    {
+        "id": 6,
+        "name": "Ingeniería en Administración",
+        "image": "edificio_bicentenario_jefatura_electronica_administracion",
+        "organigramaImage":"organigrama_administracion",
+        "description": "\nTomaron una gran decisión al unirse a una carrera respaldada por más de 20 años de excelencia formando ingenieros de calidad. En esta etapa que definirá su futuro, aprovechen cada clase, práctica y experiencia para desarrollar habilidades que los preparen para superar grandes retos.\n\nConfíen en el compromiso de sus docentes y en el respaldo de esta casa de estudios.\n\n¡Son parte de TESCHA, una institución que impulsa su crecimiento personal y profesional con orgullo!",
+        "functions": [
+        ],
+        "schedule": "Lunes a Viernes de 11:00 a 14:00 y de 15:00 a 17:00",
+        "mail": "jefatura.electronica@tesch.edu.mx",
+        "phone": "(55) 59820848 y 59821089 Ext.1122",
+        "web":"",
+        "facebook":"",
+        "category": "Académicos",
+        "building":3,
+        "unit":"Jefaturas",
+        "contact": 1
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "MTR. ELFEGO FIDENCIO BUTRON DÍAZ",
+        "image": "director_1",
+        "description": "",
+        "period": "1998 - 2000"
+    },
+    {
+        "id": 2,
+        "name": "LCDO. ELÍAS BERNAL ALCÁNTARA",
+        "image": "director_2",
+        "description": "",
+        "period": "2001 - 2003"
+    },
+    {
+        "id": 3,
+        "name": "LCDO. ROGELIO GARCÍA GARCÍA",
+        "image": "director_3",
+        "description": "",
+        "period": "2003 - 2007"
+    },
+    {
+        "id": 4,
+        "name": "LCDO. PASCUAL TORRES RODRÍGUEZ",
+        "image": "director_4",
+        "description": "",
+        "period": "2007 - 2011"
+    },
+    {
+        "id": 5,
+        "name": "MTR. DEMETRIO MORENO ARCEGA",
+        "image": "director_5",
+        "description": "",
+        "period": "2011 - 2014"
+    },
+    {
+        "id": 6,
+        "name": "MTR. EDGAR DANIEL SÁNCHEZ BALDERAS",
+        "image": "director_6",
+        "description": "",
+        "period": "2014 - 2018"
+    },
+    {
+        "id": 7,
+        "name": "LCDO. GUILLERMO GUSTAVO FALCÓN TORRES",
+        "image": "director_7",
+        "description": "",
+        "period": "2018 - 2023"
+    },
+    {
+        "id": 8,
+        "name": "DRA. CLAUDIA PÉREZ MARTÍNEZ",
+        "image": "director_8",
+        "description": "",
+        "period": "2024 - 2024"
+    },
+    {
+        "id": 9,
+        "name": "DR. ERNESTO MARDOQUEO RIVAS RIVAS",
+        "image": "director_9",
+        "description": "",
+        "period": "2024 - PRESENTE"
+    }
+]

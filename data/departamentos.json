@@ -1,0 +1,536 @@
+[
+  {
+    "id": 1,
+    "name": "Centro de Cómputo",
+    "image": "edificio_morelos_centro_computo",
+    "description": "El centro de cómputo, así como el Laboratorio de Tecnologías de la Información (Tics) del Tecnológico de estudios superiores de Chalco, proporciona a la Institución, de las telecomunicaciones (voz, datos y video), instalación actualización, monitoreo y mantenimiento de los equipos de cómputo, la fibra óptica y todos los sistemas de comunicación que conforman la red institucional con la finalidad de mantener un buen servicio. \n\nEl personal de centro de cómputo brinda a los alumnos los siguientes servicios:\n",
+    "functions": [
+      "Asignación de equipo de cómputo: El equipo asignado al área de consultas será utilizado para la elaboración de tareas individuales. El servicio de Internet será ofrecido por una hora, exclusivamente de uso académico, el cual se puede hacer extensivo de acuerdo a las características del trabajo a realizar y la demanda del servicio (en caso de necesitar más tiempo hay que solicitarlo)",
+      "Coordinar las actividades del departamento con las demás áreas de subdirección de servicios administrativos.",
+      "El encargado de centro de cómputo te puede brindar ayuda en los sistemas operativos Windows.",
+      "El encargado de centro de cómputo te puede brindar ayuda en los sistemas de información como paquetería de office, antivirus, archivos con extensión PDF, comprimir archivos, etc.",
+      "Ofrecer apoyo técnico puntual en eventos programados por la institución.",
+      "Administrar la seguridad de datos, así como los respaldos y restauraciones."
+    ],
+    "links":[],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 7:00 a 20:45",
+    "mail": "",
+    "phone": "59821088 y 59821089 Ext. 1113",
+    "galery":[
+      
+    ],
+    "category": "Servicios",
+    "building":2,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 2,
+    "name": "Servicio Médico",
+    "image": "edificio_bicentenario_servicio_medico",
+    "description": "En caso de malestar, acude al servicio médico del TESCHA y recibe atención de nuestro personal de enfermería. ¡Estamos aquí para apoyarte! Recuerda que la atención es solo para cuadro básico.\n\nFunciones Principales:\n",
+    "functions": [
+      "Consultas para malestares comunes (dolor de cabeza, estómago, garganta, mareos, vómito, resfriado, entre otros).",
+      "Aplicación de medicamentos básicos, vendajes, curaciones y toma de signos vitales (presión arterial, peso, talla).",
+      "Información sobre salud preventiva (higiene, educación sexual, planificación familiar y prevención de infecciones de transmisión sexual).",
+      "Coordinación con instituciones de salud para canalizar casos que requieren atención especializada.",
+      "Intervención en urgencias como luxaciones, heridas, dificultades respiratorias, desmayos, crisis hipertensivas y convulsiones.",
+      "Aplicación de inyecciones con receta médica"
+    ],
+    "links":[],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes \nTurno matutino 07:00 a 12:00 \nTurno vespertino 12:00 a 21:00",
+    "mail": "s_medico@tesch.edu.mx",
+    "phone": "",
+    "galery":[
+      
+    ],
+    "category": "Servicios",
+    "building":3,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 3,
+    "name": "Psicología",
+    "image": "edificio_biblioteca_psicologia_1",
+    "description": "Aprovecha el apoyo psicológico que el Tecnológico te ofrece.\n\nAquí encontrarás:\n",
+    "functions": [
+      "Terapias para estudiantes: Un espacio seguro y confidencial para recibir orientación y apoyo en cualquier tema personal o académico que enfrentes. ¡Nos importa tu bienestar!",
+      "Actividades de Concientización: Infórmate y participa en temas de violencia de género, equidad y prevención del embarazo. Estas actividades están diseñadas para fomentar un entorno de respeto e inclusión.",
+      "Prevención de estrés académico."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"Agenda tu cita presencialmente con los psicólogos ubicados en la biblioteca.",
+    "schedule": "Lunes a Viernes de 7:00 a 16:00",
+    "mail": "depto.desarrollo.academico@tesch.edu.mx",
+    "phone": "(55) 5982 1088 y (55) 5982 1089 Ext.1112",
+    "galery":[
+      "edificio_biblioteca_psicologia_1",
+      "edificio_biblioteca_psicologia_2"
+    ],
+    "category": "Servicios",
+    "building":7,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 4,
+    "name": "Centro de Información y Servicios Bibliotecarios",
+    "image": "edificio_biblioteca_prestacion_libros",
+    "description": "¡¿Necesitas Información para tu tareas o actividades de investigación?! Visita el Centro de Información y Servicios Bibliotecarios ubicado dentro de Biblioteca.\n\nTe ofrecemos los siguientes servicios:\n",
+    "functions": [
+      "Préstamo interno y externo de libros.",
+      "Búsqueda y obtención de referencia bibliográfica.",
+      "Asistencia en la localización del acervo.",
+      "Catálogo Opac.",
+      "Consulta de Tesis y trabajos de titulación.",
+      "Pláticas de inducción y visitas guiadas.",
+      "Reservación de material.",
+      "Red abierta de Internet inalámbrico (Estudiantes y Docentes).",
+      "Sala de consulta de recursos digitales.",
+      "Biblioteca Digital (E-Libro)."
+    ],
+    "links":[],
+    "postdescription":"\nSolo necesitas tu credencial vigente y renovar cada semestre el registro del servicio para poder acceder a nuestros beneficios que ofrece el centro (Excepto Red abierta, Pláticas de inducción y Biblioteca Digital).\n\nRecuerda, también contamos con Actividades de Fomento a la Lectura cada mes en un horario abierto.",
+    "sub":[
+      {
+        "name":"\nCentro de información digital",
+        "description":"También puedes acceder a información digital en la sala de consulta.\n\nAcude a la ventanilla de atención con tu credencial institucional y solicita un equipo de cómputo."
+      },
+      {
+        "name":"Biblioteca Digital",
+        "description":"Escanea el código QR e ingresa con tu matrícula y contraseña:",
+        "image":"edificio_biblioteca_qr_biblioteca_digital",
+        "postdescription":"\nO ingresa al siguiente link:\n",
+        "links":[
+          "https://elibro.net/es/lc/tescha/login_usuario/"
+        ]
+      }
+    ],
+    "schedule": "Lunes a Viernes de 7:00 a 20:45",
+    "mail": "",
+    "phone": "",
+    "galery":[
+      "edificio_biblioteca_prestacion_libros",
+      "edificio_biblioteca_acervo"
+    ],
+    "category": "Servicios",
+    "building":7,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 5,
+    "name": "Departamento de Seguimiento de Egresados y Bolsa de Trabajo",
+    "image": "edificio_sor_juana_g10",
+    "description": "Mantente Conectado:\n\nEncuentra avisos importantes y recursos exclusivos para egresados del TESCHA. Accede fácilmente al Sistema SILSE (Sistema en Línea de Seguimiento de Egresados y Egresadas) y explora enlaces a bolsas de empleo para impulsar tu carrera\n\nObjetivo:\n\nNuestro objetivo es evaluar el impacto profesional de los egresados del TESCHA en el sector productivo, identificando las necesidades de las organizaciones de la región. Con esta información, promovemos oportunidades laborales a través de nuestra Bolsa de Trabajo, conectándote con empresas y ayudándote a construir un futuro profesional exitoso. ¡Estamos aquí para apoyarte en tu camino hacia el éxito!\n\nEstos son los servicios que proporciona:\n",
+    "functions": [
+      "Bolsa de Trabajo: Gestionar vínculos con empresas para ofrecer vacantes a estudiantes y egresados.",
+      "Residencias y Servicio Social: Coordinar con empresas para brindar opciones de servicio social y residencias.",
+      "Visitas Industriales: Organizar visitas a empresas para acercarte al ambiente laboral.",
+      "Cursos y Capacitaciones: Promover cursos de especialización y actualización profesional."
+    ],
+    "links":[],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 09:00 a 15:00 y de 16:00 a 18:00",
+    "mail": "bolsadetrabajo@tesch.edu.mx",
+    "phone": "",
+    "galery":[
+      "edificio_sor_juana_g10",
+      "edificio_sor_juana_g10_seguimiento_egresados"
+    ],
+    "category": "Servicios",
+    "building":5,
+    "unit":"Departamentos",
+    "contact":1
+  },
+  {
+    "id": 6,
+    "name": "Titulación",
+    "image": "edificio_entre_ejes_titulacion_2",
+    "description": "¡Estás a un paso de lograr tu meta! Una vez que completes todos tus créditos, es momento de iniciar tu trámite de titulación.\n\nEsto es lo que debes hacer:\n",
+    "functions": [
+      "Consulta los costos y requisitos"
+    ],
+    "links":[
+      "https://tescha.edomex.gob.mx/titulacion",
+      "https://tescha.edomex.gob.mx/cuotas_tramites"
+    ],
+    "postdescription":"Visita el cubículo de Titulación dentro del departamento de Control Escolar para más detalles.\n\nRecuerda que estos trámites se realizan de manera presencial y deben seguir el orden establecido. ¡Asegura tu éxito y termina tu carrera con todo listo!\n\nNota: para sacar el certificado total de estudios, tienes que tener el 100 % de los créditos aprobados.\n\nPara poder titularse es necesario contar con la autorización del proyecto para poder presentarlo y la constancia de Inglés que acredita el nivel de B1.",
+    "schedule": "Lunes a Viernes de 08:00 a 14:00 y de 15:00 a 17:00",
+    "mail": "titulacion_ce@tesch.edu.mx",
+    "phone": "(55) 59821088 y (55) 59821089",
+    "galery":[
+      "edificio_entre_ejes_titulacion_1",
+      "edificio_entre_ejes_titulacion_2",
+      "edificio_entre_ejes_titulacion_3",
+      "edificio_entre_ejes_titulacion_4"
+    ],
+    "category": "Servicios",
+    "building":6,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 7,
+    "name": "Recursos Financieros",
+    "image": "edificio_neza_recursos_financieros",
+    "description": "En la ventanilla de Recursos Financieros, que se encuentra en la planta alta del Edificio Nezahualcóyotl, puedes canjear tus váuchers para obtener los formatos necesarios para tus trámites en Control Escolar. \n\nRecuerda: la hoja amarilla es la que deberás entregar en Control Escolar o CELEX.",
+    "functions": [
+      "Cambio de  vouchers."
+    ],
+    "links":[],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 9:00 a 14:00 y de 15:00 a 17:45",
+    "mail": "recursos_financieros@tesch.edu.mx",
+    "phone": "",
+    "galery":[
+      
+    ],
+    "category": "Financieros",
+    "building":1,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 8,
+    "name": "Control Escolar",
+    "image": "edificio_entre_ejes_control_escolar",
+    "description": "¿Tienes algún trámite escolar que realizar?\n\nAquí podrás encontrar información relacionada con los servicios que ofrece el departamento de control escolar:\n",
+    "functions": [
+      "Examen de Admisión.",
+      "Inscripciones y reinscripciones.",
+      "Trámite de constancias.",
+      "Bajas temporales y definitiva."
+      
+    ],
+    "links":[
+      "Titulación",
+      "Becas"
+    ],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 09:00 a 14:00 y de 15:00 a 18:00",
+    "mail": "control_escolar@tesch.edu.mx",
+    "phone": "(55) 59820848 y 59821089 Ext.1126",
+    "galery":[
+      
+    ],
+    "category": "Académicos",
+    "building":6,
+    "unit":"Departamentos",
+    "contact":1
+  },
+  {
+    "id": 9,
+    "name": "Jefaturas de División en Ingeniería",
+    "image": "edificio_bicentenario_jefatura_sistemas",
+    "description": "Gestión académica y administrativa de las carreras.",
+    "functions": [
+      "Supervisión de planes de estudio.",
+      "Atención a estudiantes.",
+      "Gestión de profesores."
+    ],
+    "links":[],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 9:00 AM - 5:00 PM",
+    "mail": "jefaturas@tesch.edu.mx",
+    "phone": "",
+    "galery":[
+      
+    ],
+    "category": "Académicos",
+    "building":3,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 10,
+    "name": "Desarrollo Académico",
+    "image": "edificio_bicentenario_desarrollo_academico",
+    "description": "¡Descubre los servicios que te apoyarán en tu formación!\n\nAquí encontrarás:\n",
+    "functions": [
+      "Perfil Vocacional: Si tienes dudas sobre tu futuro profesional, esta herramienta te orienta y ayuda a enfocar tus intereses.",
+      "Evaluación Docente: Tu opinión cuenta. Participa para mejorar la calidad de enseñanza.",
+      "Justificantes: Obtén ayuda para tramitar tus justificantes en caso de faltas por motivos de salud.",
+      "Área de Tutorías: Accede a apoyo académico y resuelve tus dudas para mejorar tu rendimiento."
+    ],
+    "links":[
+      "Psicología"
+    ],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 9:00 a 18:00",
+    "mail": "depto.desarrollo.academico@tesch.edu.mx",
+    "phone": "(55) 5982 1088 y (55) 5982 1089 Ext.1112",
+    "galery":[
+      
+    ],
+    "category": "Académicos",
+    "building":3,
+    "unit":"Departamentos",
+    "contact": 1
+  },
+  {
+    "id": 11,
+    "name": "Departamento de Servicio Social y Residencias Profesionales",
+    "image": "edificio_sor_juana_g10",
+    "description": "El departamento de Servicio Social y Residencias Profesionales te conecta con oportunidades en sectores públicos, privados y sociales, brindándote experiencia práctica y preparando el camino hacia tu titulación. ¡Un paso clave para tu desarrollo profesional!\n\nEl departamento te ofrece:",
+    "functions": [
+      "Cursos de inducción para Servicio Social y Residencias Profesionales.",
+      "Vinculación con el sector productivo.",
+      "Catálogo de Empresas.",
+      "Asesorías en la entrega de documentos.",
+      "Consulta lo requisitos para  Servicio social y Residencias profesionales en los siguientes links ->"
+    ],
+    "links":[
+      "https://tescha.edomex.gob.mx/servicio_social",
+      "https://tescha.edomex.gob.mx/residencias_profesionales"
+    ],
+    "postdescription":"\nEL TRAMITE DE SERVICIO SOCIAL ES GRATUITO\n\nPara mayores informes acude al Departamento de Servicio Social y Residencias Profesionales ubicado en el Edificio Sor Juana Inés de la Cruz planta alta.",
+    "schedule": "Lunes a Viernes de 09:00 a 15:00 y de 16:00 a 17:45",
+    "mail": "controldocumentos_ssyrp@tesch.edu.mx & serviciosocialyresidenciasprof@tesch.edu.mx",
+    "phone": "(55) 59821088 y (55) 59821089 Ext.1116",
+    "galery":[
+      "edificio_sor_juana_g10",
+      "edificio_sor_juana_g10_servicio_social_residencias_profesionales"
+    ],
+    "category": "Académicos",
+    "building":5,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 12,
+    "name": "Departamento de Actividades Culturales y Deportivas y Difusión",
+    "image": "edificio_biblioteca_actividades_culturales",
+    "description": "Promueve actividades culturales y deportivas que complementan tu formación académica, impulsando tu desarrollo integral y difundiendo la oferta educativa del Tecnológico. ¡Participa y enriquece tu experiencia en el Tecnológico! \n\nOfrece:\n",
+    "functions": [
+      "Talleres Culturales y Deportivos: Ofrecer y promover talleres para apoyar tu desarrollo integral.",
+      "Eventos: Organizar y apoyar eventos culturales y deportivos dentro y fuera de la institución."
+    ],
+    "links":[],
+    "postdescription":"",
+    "schedule": "Lunes a Viernes de 09:00 a 15:00 y de 16:00 a 18:00",
+    "mail": "difusiónculturaydeporte@tesch.edu.mx",
+    "phone": "(55) 59820848 y (55) 59821089 Ext.1127",
+    "galery":[],
+    "category": "Académicos",
+    "building":7,
+    "unit":"Departamentos",
+    "contact": 1
+  },
+  {
+    "id": 13,
+    "name": "CELEX",
+    "image": "edificio_biblioteca_incubadora_celex",
+    "description": "En el TESCHA, ofrecemos cursos de idiomas diseñados para el sector productivo, la comunidad académica y el público en general. Con profesores expertos, desarrollamos habilidades en inglés como conversación, escritura, lectura de textos técnicos y comprensión auditiva, preparándote para destacar en ámbitos comerciales y técnicos.\n\nDisponemos de horarios semanales, sabatinos y opciones intensivas que se adaptan a tus necesidades. ¡Mejora tu competitividad con nuestros cursos de calidad!\n\nEl centro de idiomas te ofrece:\n",
+    "functions": [
+      "Horarios y Modalidades.",
+      "Cursos de Inglés."
+    ],
+    "links":[],
+    "postdescription":"",
+    "sub":[
+      {
+        "name":"",
+        "description":"Acércate con el Coordinador de Celex para más información.\n",
+         "functions":[
+          
+        ],
+        "image":"",
+        "postdescription":"Para conocer todos los requisitos, visita el siguiente link:\n",
+        "links":[
+          "https://tescha.edomex.gob.mx/centro_lenguas"
+        ]
+      },
+      {
+        "name": "Certificación PET (Preliminary English Test)",
+        "description": "¡Da un gran paso en tu formación profesional con el reconocimiento internacional de Cambridge! La certificación PET, disponible anualmente entre julio y septiembre, está dirigida a estudiantes que cursan los niveles de Perfeccionamiento 2 y C en inglés.\n\nRequisitos para participar:",
+        "functions":[
+          "Acreditar los últimos dos niveles de inglés.",
+          "Ser seleccionado como uno de los 10 candidatos que recibirán una beca del 100% para certificarse."
+        ],
+        "image":"",
+        "postdescription": "",
+        "links": [
+
+        ]
+      },
+      {
+        "name": "Beneficio adicional:",
+        "description": "El certificado es válido de por vida, lo que asegura su utilidad para respaldar tu nivel de inglés a lo largo de tu trayectoria académica y profesional.",
+        "functions":[
+          "Acreditar los últimos dos niveles de inglés.",
+          "Ser seleccionado como uno de los 10 candidatos que recibirán una beca del 100% para certificarse."
+        ],
+        "postdescription": "Consulta las bases de la convocatoria y obtén más información en:",
+        "image":"",
+        "links": [
+          "https://tescha.edomex.gob.mx/convocatoria_centro"
+        ]
+      }
+    ],
+    "schedule": "Lunes a Viernes de 09:00 a 15:00 y Sábado de 08:00 a 13:00",
+    "mail": "celex@tesch.edu.mx ó educación.continua@tesch.edu.mx",
+    "phone": "551366-7176",
+    "galery":[
+      
+    ],
+    "category": "Externo",
+    "building":7,
+    "unit":"Departamentos",
+    "contact":0
+  },
+  {
+    "id": 14,
+    "name": "Centro de Cooperación Academia-Indrustria (CCAI)",
+    "image": "edificio_entre_ejes_ccai",
+    "description": "El C-CAI es un espacio diseñado para conectar el aprendizaje académico con las necesidades del sector privado. Aquí, los estudiantes trabajan en proyectos reales proporcionados por empresas, quienes además aportan los recursos necesarios para desarrollarlos.\n\nEquipado con tecnología de vanguardia, este centro es clave para que apliques tus conocimientos y adquieras experiencia práctica en proyectos funcionales relacionados con tu ingeniería. ¡Un puente directo hacia el mundo profesional!",
+    "functions": [],
+    "links":[],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "galery":[
+      
+    ],
+    "category": "Académicos",
+    "building": 6,
+    "unit": "Departamentos",
+    "contact":0
+  },
+  {
+    "id": 15,
+    "name": "Subdirección de Servicios Escolares",
+    "image": "edificio_bicentenario_servicios_escolares",
+    "description": "En servicios Escolares podrás encontrar información relacionada con trámites necesarios a la inscripción y reinscripción, becas , servicio social, residencias profesionales, tutorías, actividades culturales y deportivas, entre otros.\n\nEstos son los departamentos en donde puedes realizar el trámite que estas necesitando:\n",
+    "functions": [],
+    "links":[
+      "Jefaturas de División en Ingeniería", 
+      "Desarrollo Académico", 
+      "Control Escolar", 
+      "Centro de Cómputo", 
+      "Servicio Médico"
+    ],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "galery":[
+      
+    ],
+    "category": "Académicos",
+    "building": 3,
+    "unit": "Departamentos",
+    "contact":0
+  },
+  {
+    "id": 16,
+    "name": "Subdirección de Vinculación y Extensión",
+    "image": "edificio_sor_juana_g10_vinculacion_extension",
+    "description": "La Subdirección de Vinculación y Extensión conecta al TESCHA con los sectores público, privado y social, fortaleciendo tu formación académica y ofreciendo oportunidades de educación continua. Este departamento trabaja para enriquecer tu experiencia educativa y abrir puertas hacia un futuro profesional exitoso.\n\nPara lograr los objetivos de esta subdirección es indispensable el apoyo de los departamentos que la conforman:\n",
+    "functions": [
+      
+    ],
+    "links":[
+      "Departamento de Servicios Tecnológicos y Educación Continua",
+      "Departamento de Actividades Culturales y Deportivas y Difusión",
+      "Departamento de Seguimiento de Egresados y Bolsa de Trabajo",
+      "Departamento de Servicio Social y Residencias Profesionales"
+    ],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "galery":[
+      "edificio_sor_juana_g10_vinculacion_extension",
+      "edificio_sor_juana_g10"
+    ],
+    "category": "Académicos",
+    "building": 5,
+    "unit": "Departamentos",
+    "contact":0
+  },
+  {
+    "id": 17,
+    "name": "Becas",
+    "image": "edificio_entre_ejes_becas",
+    "description": "En este apartado encontrarás toda la información sobre las becas disponibles para los estudiantes del Tecnológico. Descubre los apoyos económicos que puedes solicitar, los requisitos necesarios y las fechas clave para tramitar tu beca.\n\nIngresa al siguiente link para consultar las becas vigentes:\n",
+    "functions": [
+      
+    ],
+    "links":[
+      "https://tescha.edomex.gob.mx/becas"
+    ],
+    "postdescription":"\n¡No dejes pasar la oportunidad de obtener un apoyo para continuar tus estudios!\n\nMantente atento a las convocatorias y construye tu futuro con TESCHA.",
+    "schedule": "Lunes a viernes de 9:00 a 14:00 y 15:00 a 18:00",
+    "mail": "becas_ce@tesch.edu.mx",
+    "phone": "",
+    "galery":[
+      
+    ],
+    "category": "Académicos",
+    "building": 6,
+    "unit": "Departamentos",
+    "contact":0
+  },
+  {
+    "id": 18,
+    "name": "Dirección General",
+    "image": "edificio_neza_direccion_general",
+    "description": "La Dirección General del TESCHA es el corazón que impulsa nuestra institución. Su papel clave es garantizar que los estudiantes reciban una educación de calidad, promoviendo un entorno de aprendizaje inclusivo y enfocado en el desarrollo académico y personal. Con visión y compromiso, trabaja para fortalecer los recursos, programas y servicios que te ayudarán a alcanzar tus metas profesionales.\n\n¡Conoce más sobre cómo la Dirección General hace del TESCHA el mejor lugar para tu crecimiento!\n",
+    "functions": [
+      
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "galery":[
+      "edificio_neza_direccion_general"
+    ],
+    "category": "Académicos",
+    "building": 1,
+    "unit": "Departamentos",
+    "contact":0
+  },
+  {
+    "id": 19,
+    "name": "Departamento de Servicios Tecnológicos y Educación Continua",
+    "image": "edificio_biblioteca_educacion_continua",
+    "description": "Este departamento es el vínculo entre los estudiantes, las empresas, el sector público y privado, ofreciendo herramientas que fortalecen tu desarrollo académico y profesional.\n\nCursos y Talleres\n\nAccede a una amplia variedad de cursos y talleres especializados, diseñados para complementar tu formación en cualquier carrera. Los cursos están disponibles en el catálogo de la página oficial del TESCHA e incluyen opciones esenciales como el curso de inglés, indispensable para tu titulación.\n\n",
+    "functions": [
+      "Inscripciones: A partir de 15 participantes por curso.", 
+      "Beneficio: Al finalizar, recibirás un diploma con validez curricular.",
+      "Para información exclusiva sobre los cursos de inglés da click en ->"
+    ],
+    "links":[
+       "CELEX"
+    ],
+    "postdescription":"",
+    "sub":[
+      {
+        "name":"\nIncubadora de Proyectos",
+        "description":"También puedes acceder a información digital en la sala de consulta.\n\nAcude a la ventanilla de atención con tu credencial institucional y solicita un equipo de cómputo."
+      },
+      {
+        "name":"Emprendedurismo",
+        "description":"Participa en las convocatorias del TECNM, organismos gubernamentales o el Instituto Mexiquense del Emprendedor para impulsar tus proyectos. Podrás aprovechar recursos y orientación para hacerlos crecer. Acércate a tu tutor para ser canalizado al departamento y descubrir las oportunidades vigentes."
+      }
+    ],
+    "schedule": "Lunes a viernes de 9:00 a 18:00",
+    "mail": "educación.continua@tesch.edu.mx",
+    "phone": "59821088 y 59821089 Ext. 1117",
+    "category": "Académicos",
+    "building": 7,
+    "unit": "Departamentos",
+    "contact":1
+  }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "name":"Auditorio Principal",
+        "image":"edificio_auditorio_principal",
+        "description":"Ubicado frente al edificio Sor Juana Inés de la Cruz, el Auditorio Principal del Tecnológico es un espacio pensados para potenciar tu experiencia académica y cultural.\n\nAquí puedes:\n",
+        "functions":[
+            "Asistir a conferencias y ponencias: Aprende de expertos en tu área de estudio y amplía tus conocimientos.",
+            "Participar en talleres y seminarios: Desarrolla habilidades prácticas y enriquece tu formación profesional.",
+            "Exponer tus proyectos: Presenta tus ideas y trabajos finales en un entorno profesional.",
+            "Disfrutar de eventos especiales: Vive ceremonias, graduaciones y actividades que celebran tu trayectoria académica."
+        ],
+        "links":[
+            
+        ],
+        "postdescription":"¡Aprovecha este espacio diseñados para tu crecimiento personal y profesional!",
+        "category": "",
+        "building": 7,
+        "unit": "Auditorios"
+    },
+    {
+        "id":2,
+        "name":"Auditorio de Biblioteca",
+        "image":"edificio_biblioteca_auditorio",
+        "description":"Ubicado dentro de Biblioteca, el segundo auditorio del Tecnológico es un espacio pensado para potenciar tu experiencia académica y cultural.\n\nAquí puedes:\n",
+        "functions":[
+            "Asistir a conferencias y ponencias: Aprende de expertos en tu área de estudio y amplía tus conocimientos.",
+            "Participar en talleres y seminarios: Desarrolla habilidades prácticas y enriquece tu formación profesional.",
+            "Exponer tus proyectos: Presenta tus ideas y trabajos finales en un entorno profesional.",
+            "Disfrutar de eventos especiales: Vive ceremonias, graduaciones y actividades que celebran tu trayectoria académica."
+        ],
+        "links":[
+            
+        ],
+        "postdescription":"¡Aprovecha este espacio diseñados para tu crecimiento personal y profesional!",
+        "category": "",
+        "building": 7,
+        "unit": "Auditorios"
+    }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Papelería",
+    "image": "edificio_neza_papeleria",
+    "description": "En la papelería del Tecnológico, los estudiantes pueden acceder a diversos servicios y materiales esenciales para sus actividades académicas, tales como:\n",
+    "functions": [
+      "Venta de artículos escolares: libretas, bolígrafos, hojas, lápices, entre otros.",
+      "Impresión y copias: documentos, tareas, proyectos y material académico."
+
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"Este espacio está diseñado para facilitar a los estudiantes la adquisición de materiales y servicios necesarios para su formación académica.",
+    "schedule": "Lunes a Viernes de 9:00 - 18:00",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 1,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 2,
+    "name": "Dirección académica",
+    "image": "edificio_bicentenario_direccion_academica",
+    "description": "La Dirección Académica del TESCHA es el área encargada de supervisar y coordinar todos los aspectos relacionados con la enseñanza y el aprendizaje dentro de la institución. Su principal objetivo es garantizar que la formación académica sea de calidad, alineada con los planes de estudio y las necesidades del entorno profesional.\n\nFunciones principales:",
+    "functions": [
+      "Coordinar los programas académicos de las distintas carreras.", 
+      "Supervisar la planeación y desarrollo de actividades académicas.", 
+      "Asegurar que los planes y programas de estudio cumplan con los estándares educativos.", 
+      "Fomentar la capacitación y actualización constante del personal docente.", 
+      "Promover estrategias para mejorar el desempeño estudiantil y docente."
+
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"\nEste departamento trabaja para que tu experiencia educativa sea integral, eficiente y orientada a tu éxito profesional.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 3,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 3,
+    "name": "Sala de docentes",
+    "image": "edificio_bicentenario_sala_docentes",
+    "description": "La sala de docentes es un espacio destinado al trabajo académico y profesional de los profesores. Algunas de las actividades que se realizan son:\n",
+    "functions": [
+      "Preparación de clases: Los docentes revisan y organizan materiales para impartir sus asignaturas.", 
+      "Reuniones internas: Se realizan juntas para coordinar actividades, compartir estrategias de enseñanza y resolver asuntos académicos.", 
+      "Asesorías: Es un punto de encuentro para estudiantes que buscan orientación académica o aclaración de dudas con sus profesores.", 
+      "Investigación y planeación: Los docentes trabajan en proyectos de investigación y actualizan los contenidos de sus materias."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"Es un lugar esencial para garantizar la calidad educativa que recibes.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 3,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 4,
+    "name": "Sala de juntas",
+    "image": "edificio_bicentenario_sala_juntas_academicas",
+    "description": "En la sala de juntas académica se toman decisiones clave que impactan directamente tu formación y experiencia como estudiante:\n",
+    "functions": [
+      "Planeación académica: Se organizan cursos, talleres y actividades para mejorar tu aprendizaje.", 
+      "Evaluación: Se analizan el desempeño docente y los avances en los programas educativos.", 
+      "Coordinación de actividades: Aquí se programan exámenes, eventos y otras actividades importantes para ti.", 
+      "Solución de problemas: Se buscan soluciones a situaciones que puedan afectar tu experiencia académica.", 
+      "Actualización de planes: Se revisan los programas de estudio para que estén alineados con las demandas actuales del mercado laboral."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"Esta sala es el espacio donde se toman decisiones que aseguran la calidad de tu educación.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 3,
+    "unit": "Otros",
+    "contact": 0
+  },
+  
+  {
+    "id": 6,
+    "name": "Gimnasio al aire libre",
+    "image": "edificio_entre_ejes_gym",
+    "description": "El gimnasio al aire libre del Tecnológico es un espacio diseñado para fomentar tu salud y bienestar. Aquí puedes:\n\n",
+    "functions": [
+      "Hacer ejercicio físico: Usa los aparatos disponibles para trabajar fuerza, resistencia y flexibilidad.", 
+      "Relajarte y desconectarte: Realiza actividad física en un entorno natural para reducir el estrés.", 
+      "Practicar rutinas saludables: Complementa tus estudios con ejercicios que beneficien tu cuerpo y mente.", 
+      "Socializar: Comparte tiempo con tus compañeros mientras te mantienes activo."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"\nAprovecha este espacio para mantenerte en forma y equilibrar tus actividades académicas con hábitos saludables.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 6,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 8,
+    "name": "Auditorios",
+    "image": "edificio_biblioteca_auditorio",
+    "description": "Los auditorios del Tecnológico son espacios pensados para potenciar tu experiencia académica y cultural. Aquí puedes:\n",
+    "functions": [
+      "Asistir a conferencias y ponencias: Aprende de expertos en tu área de estudio y amplía tus conocimientos.", 
+      "Participar en talleres y seminarios: Desarrolla habilidades prácticas y enriquece tu formación profesional.", 
+      "Exponer tus proyectos: Presenta tus ideas y trabajos finales en un entorno profesional.", 
+      "Disfrutar de eventos especiales: Vive ceremonias, graduaciones y actividades que celebran tu trayectoria académica."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"¡Aprovecha estos espacios diseñados para tu crecimiento personal y profesional",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 7,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 9,
+    "name": "Salón de artes",
+    "image": "edificio_gallineros_artes",
+    "description": "El Salón de Arte es un espacio donde la creatividad y la expresión artística toman vida. Aquí puedes:\n",
+    "functions": [
+      "Participar en talleres de arte: Aprende y desarrolla habilidades en pintura, dibujo, escultura u otras disciplinas artísticas.", 
+      "Exponer tu talento: Presenta tus obras en exposiciones estudiantiles y comparte tu creatividad con la comunidad.", 
+      "Asistir a actividades culturales: Disfruta de eventos como presentaciones artísticas y sesiones de apreciación del arte.", 
+      "Fomentar tu desarrollo integral: Descubre cómo el arte puede complementar tu formación académica y personal."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"¡Explora tu lado creativo y forma parte de la vida cultural del TESCHA! \n\nRecuerda que las actividades complementarias debes consultarlas en el Departamento de actividades culturales, deportivas y Difusión.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 8,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 10,
+    "name": "Difusión",
+    "image": "edificio_gallineros_difusion",
+    "description": "La parte de difusión del Tecnológico se encarga de promover y comunicar las actividades, eventos, logros académicos, culturales y deportivos de la institución, tanto a la comunidad estudiantil como al público en general.\n\nSus principales funciones incluyen:\n",
+    "functions": [
+      "Publicar información sobre eventos, talleres, cursos y convocatorias.", 
+      "Compartir logros de estudiantes, docentes y áreas del Tecnológico.", 
+      "Diseñar campañas de promoción para la oferta educativa.", 
+      "Mantener actualizados los canales oficiales de comunicación (redes sociales)."
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"Es el enlace entre el Tecnológico y la comunidad, destacando los valores y fortalezas de la institución.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 8,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 11,
+    "name": "Salón de deportes",
+    "image": "edificio_gallineros_deportes",
+    "description": "En el Salón de Deportes encontrarás todo el material necesario para realizar actividades físicas al aire libre. Este espacio está diseñado para apoyar tus entrenamientos y prácticas deportivas, fomentando el bienestar y la actividad física.\n\n¡Prepárate, el deporte te espera fuera del salón!  \n\nRecuerda que las actividades complementarias debes consultarlas en el Departamento de actividades culturales, deportivas y Difusión.",
+    "functions": [],
+    "links":[
+      
+    ],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 8,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 12,
+    "name": "Salón de inglés",
+    "image": "edificio_gallineros_salon_ingles",
+    "description": "El Salón de Inglés es un espacio diseñado para fortalecer tus habilidades en este idioma y prepararte para un entorno profesional global. Aquí puedes:\n",
+    "functions": [
+      "Tomar clases de inglés: Aprende y mejora tus habilidades en comprensión, conversación, escritura y gramática.", 
+      "Realizar actividades prácticas: Participa en dinámicas interactivas, juegos de roles y debates que hacen el aprendizaje más dinámico.", 
+      "Acceder a recursos didácticos: Utiliza materiales y herramientas tecnológicas que facilitan el aprendizaje."
+
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"\n¡Conviértete en un profesional bilingüe y amplía tus oportunidades! \nRecuerda que las actividades complementarias debes consultarlas en el Departamento de actividades culturales, deportivas y Difusión.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 8,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 13,
+    "name": "Salón de taekwondo",
+    "image": "edificio_gallineros_taekwondo",
+    "description": "En el salón de taekwondo del Tecnológico, se desarrollan actividades dedicadas a la práctica y enseñanza de este arte marcial. Aquí se realizan:\n",
+    "functions": [
+      "Entrenamientos regulares para mejorar habilidades técnicas, tácticas y físicas.", 
+      "Clases guiadas por instructores calificados, que enseñan los valores del taekwondo como disciplina, respeto y perseverancia.", 
+      "Sesiones de acondicionamiento físico específicas para esta práctica."
+
+    ],
+    "links":[
+      
+    ],
+    "postdescription":"Este espacio está diseñado para promover la formación integral de los estudiantes mediante la actividad física y el aprendizaje de una disciplina marcial.",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 8,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 14,
+    "name": "Almacén de recursos materiales",
+    "image": "edificio_gallineros_almacen_recursos",
+    "description": "Espacio designado a la recepción y entrega de suministros destinados para el uso del tecnológico.",
+    "functions": [],
+    "links":[
+      
+    ],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 8,
+    "unit": "Otros",
+    "contact": 0
+  },
+  {
+    "id": 15,
+    "name": "Cafetería",
+    "image": "cafeteria",
+    "description": "Contamos con una cafetería donde puedes disfrutar de tus alimentos a precios accesibles. Ofrecemos una variedad de opciones, como comidas corridas, bebidas, sándwiches, tacos, quesadillas, pan dulce, hamburguesas y más variedad de alimentos.",
+    "functions": [],
+    "links":[
+      
+    ],
+    "postdescription":"",
+    "schedule": "",
+    "mail": "",
+    "phone": "",
+    "category": "Otros",
+    "building": 3,
+    "unit": "Otros",
+    "contact": 0
+  }
+]
+

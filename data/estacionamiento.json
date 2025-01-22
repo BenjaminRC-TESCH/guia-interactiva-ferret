@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "name":"Estacionamiento para alumnos",
+        "image":"estacionamiento_alumnos",
+        "description":"Disponemos de un estacionamiento exclusivo para alumnos, con espacios designados tanto para automóviles particulares como para motocicletas. Recuerda que, para ingresar al TESCHA, es indispensable cumplir con los siguientes requisitos:\n",
+        "schedule":"",
+        "access":[
+            "Marbete"
+        ] 
+       
+    },
+    {
+        "id":2,
+        "name":"Estacionamiento para docentes y administrativos",
+        "image":"estacionamiento_docentes",
+        "description":"Disponemos de un estacionamiento exclusivo para alumnos, con espacios designados tanto para automóviles particulares. Recuerda que, para ingresar al TESCHA, es indispensable cumplir con los siguientes requisitos:\n",
+        "schedule":"",
+        "access":[
+            "Marbete"
+        ] 
+        
+    }
+]
