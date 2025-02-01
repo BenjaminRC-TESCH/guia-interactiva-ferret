@@ -18,7 +18,7 @@ export const TextVariables = {
         contact: '¡Contacta las áreas de tu interés!',
         jefaturas: 'Jefaturas',
         parking: 'Estacionamiento',
-        galery: 'Galeria',
+        galery: 'Galería',
         organigramaGeneral: 'Organigrama General',
         auditorium: 'Auditorios',
         marbete: 'TRAMITA TU MARBETE',

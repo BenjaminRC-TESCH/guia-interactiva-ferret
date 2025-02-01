@@ -115,8 +115,7 @@
     "mail": "",
     "phone": "",
     "galery":[
-      "edificio_biblioteca_prestacion_libros",
-      "edificio_biblioteca_acervo"
+      "edificio_biblioteca_prestacion_libros"
     ],
     "category": "Servicios",
     "building":7,

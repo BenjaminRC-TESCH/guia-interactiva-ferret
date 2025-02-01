@@ -144,3 +144,14 @@ export interface ListingTypePtc {
     category: string;
     unit: string;
 }
+
+export interface ListingTypeContact {
+    id: number;
+    name: string;
+    position: string;
+    image: string;
+    phone: string;
+    mail: string;
+    schedule: string;
+    contact: number;
+}

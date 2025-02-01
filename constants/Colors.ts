@@ -14,4 +14,5 @@ export const Colors = {
     gray: '#9b9b9b', //gris
     active: '#2ecc71', //verde
     blue: '#0000FF',
+    purple: '#A020F0',
 };

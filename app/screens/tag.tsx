@@ -83,6 +83,7 @@ const tag = () => {
                             <Text style={styles.requirements}>2 fotografías tamaño infantil (a color o en blanco y negro)</Text>
                         </View>
                     </View>
+                    <Text style={styles.warning}>¡El trámite es gratuito!</Text>
                     <View>
                         <Text style={styles.sheduleTittle}>Horario de atención</Text>
                         <Text style={styles.sheduleDescription}>Lunes a viernes</Text>

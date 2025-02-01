@@ -1,4 +1,5 @@
 const imageMap: Record<string, any> = {
+    profile: require('@/assets/images/profile.jpg'),
     cafeteria: require('@/assets/images/cafeteria.jpg'),
     director_1: require('@/assets/images/director_1.jpg'),
     director_2: require('@/assets/images/director_2.jpg'),

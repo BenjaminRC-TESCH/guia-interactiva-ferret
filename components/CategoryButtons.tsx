@@ -11,7 +11,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { Colors } from '../constants/Colors';
 
 // Data
-import departmentCategories from '@/data/categories';
+import departmentCategories from '@/types/categories';
 
 // PROPS
 type Props = {
@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     categoryBtnActive: {
         flexDirection: 'row',
         alignItems: 'center',
-        backgroundColor: Colors.active,
+        backgroundColor: Colors.purple,
         paddingHorizontal: 16,
         paddingVertical: 10,
         borderRadius: 10,

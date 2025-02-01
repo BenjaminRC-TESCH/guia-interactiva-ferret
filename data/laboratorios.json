@@ -3,11 +3,9 @@
     "id": 1,
     "name": "Laboratorio de Automatización y Robótica Salón",
     "image":"edificio_entre_ejes_b1",
-    "description": "Laboratorio ubicado entre ejes, a lado de PTC de Electrónica y perteneciente a la ingeniera en Electrónica, diseñamos, simulamos y fabricamos prototipos electrónicos utilizando tecnologías como microcontroladores, PLC y sistemas automatizados en redes industriales. Equipados con software especializado, módulos educativos y actuadores eléctricos, hidráulicos y neumáticos, ofreciendo un espacio ideal para prácticas en control y comunicaciones industriales.\n\n¡Explora, aprende y lleva tus conocimientos al siguiente nivel!",
+    "description": "Laboratorio ubicado entre ejes, a lado de PTC de Electrónica y perteneciente a la ingeniera en Electrónica, diseñamos, simulamos y fabricamos prototipos electrónicos utilizando tecnologías como microcontroladores, PLC y sistemas automatizados en redes industriales. Esto con ayuda de software especializado, módulos educativos y actuadores eléctricos, hidráulicos y neumáticos, ofreciendo un espacio ideal para prácticas en control y comunicaciones industriales.\n\n¡Explora, aprende y lleva tus conocimientos al siguiente nivel!",
     "functions": [],
     "galery": [
-      "edificio_entre_ejes_b1_interior_1",
-      "edificio_entre_ejes_b1_interior_2",
       "edificio_entre_ejes_b1"
     ],
     "category": "",
@@ -19,7 +17,7 @@
     "id": 2,
     "name": "Laboratorio de Microcomputadoras(1)",
     "image":"edificio_morelos_laboratorio_1",
-    "description": "Este laboratorio está diseñado para impulsar tus habilidades en programación a lo largo de toda tu carrera. Equipado con computadoras modernas y software especializado, es el espacio ideal para realizar las prácticas asignadas en cada materia. \n\nLas materias que se imparte están relacionadas a Programación, como ejemplo de algunas de ellas son:",
+    "description": "Este laboratorio está diseñado para impulsar tus habilidades en programación a lo largo de toda tu carrera, es el espacio ideal para realizar las prácticas asignadas en cada materia.\n\nLas materias que se imparte están relacionadas a Programación, como ejemplo de algunas de ellas son: ",
     "functions": [
       "Fundamentos de Programación",
       "Programación orientada a Objetos",
@@ -27,7 +25,7 @@
       "Materias avanzadas de especialidad en programación, entre otras más."
 
     ],
-    "postdescription":"Desde los conceptos básicos hasta el desarrollo avanzado, el Laboratorio 1 de Microcomputadoras te proporciona las herramientas necesarias para convertir tus ideas en proyectos funcionales y prepararte para los retos del mundo profesional. \n\n¡Explora, aprende y programa!",
+    "postdescription":"Desde los conceptos básicos hasta el desarrollo avanzado, el Laboratorio 1 de Microcomputadoras te proporciona las herramientas necesarias para convertir tus ideas en proyectos funcionales y prepararte para los retos del mundo profesional.\n\n¡Explora, aprende y programa!",
     "galery": [
       
     ],
@@ -40,9 +38,9 @@
     "id": 3,
     "name": "Laboratorio de Microprocesadores(3)",
     "image":"edificio_morelos_laboratorio_3",
-    "description": "Un espacio diseñado para que desarrolles tus habilidades en el manejo y administración de bases de datos, con un enfoque práctico que te permitirá aplicar tus conocimientos de manera efectiva. Este laboratorio cuenta con computadoras equipadas con software especializado para facilitar tus prácticas académicas.\n\nMaterias que se pueden impartirse en este laboratorio:\n",
+    "description": "Un espacio diseñado para que desarrolles tus habilidades en el manejo y administración de bases de datos, con un enfoque práctico que te permitirá aplicar tus conocimientos de manera efectiva.\n\nMaterias que se pueden impartirse en este laboratorio:",
     "functions": [
-      " Fundamentos de Datos",
+      "Fundamentos de Datos",
       "Taller de Base de Datos",
       "Administración de Base de Datos",
       "Gestión de Bases de Datos SQL y NoSQL",
@@ -92,9 +90,7 @@
     "description": "Un espacio diseñado para que desarrolles tus habilidades en programación, telecomunicaciones, redes, sistemas electrónicos y administración de servidores. Aquí podrás trabajar con software especializado y adquirir las competencias necesarias para convertirte en un ingeniero de calidad.\n\nAdemás, este laboratorio es utilizado para impartir materias relacionadas con estas áreas, ofreciéndote una formación completa y actualizada. ¡Prepárate para destacar en el mundo tecnológico!",
     "functions": [],
     "galery": [
-      "edificio_morelos_laboratorio_6",
-      "edificio_morelos_laboratorio_6_interior_1",
-      "edificio_morelos_laboratorio_6_interior_2"
+      "edificio_morelos_laboratorio_6"
     ],
     "category": "",
     "building": 2,
@@ -131,10 +127,15 @@
   },
   {
     "id": 9,
-    "name": "Laboratorio 9",
+    "name": "Laboratorio de sus múltiples 9",
     "image":"edificio_morelos_laboratorio_9",
-    "description": "Este laboratorio, equipado con computadoras y software especializado, está diseñado para apoyar las materias de tronco común, como programación y bases de datos. Estas áreas son fundamentales para tu formación académica, brindándote las herramientas necesarias para desarrollar competencias esenciales en tu carrera.\n\n¡Un espacio ideal para fortalecer tus conocimientos desde los primeros semestres!",
-    "functions": [],
+    "description": "El Laboratorio de Usos Múltiples es un espacio compartido por las carreras de Sistemas Computacionales e Informática, diseñado para garantizar que todas las materias prácticas tengan el lugar adecuado para desarrollarse, incluso aquellas que no pudieron ser asignadas a otros laboratorios.\n\nCaracterísticas principales:",
+    "functions": [
+      "Flexibilidad: Se adapta a las necesidades de diversas asignaturas a lo largo del semestre.",
+      "Equipo especializado: Cuenta con computadoras y software actualizados, alineados con los requerimientos específicos de las materias impartidas.",
+      "Cumplimiento académico: Asegura que se cubran las horas prácticas establecidas en el programa educativo."
+    ],
+    "postdescription":"Este laboratorio es un ejemplo de cómo la institución garantiza que cada estudiante tenga acceso a los recursos necesarios para su formación profesional, fomentando un ambiente propicio para el aprendizaje.",
     "galery": [
       
     ],
@@ -147,11 +148,8 @@
     "id": 10,
     "name": "Laboratorio de Usos Múltiples",
     "image":"edificio_neza_a4_usos_multiples_1",
-    "description": "El Laboratorio de Usos Múltiples es un espacio compartido por las carreras de Sistemas Computacionales e Informática, diseñado para garantizar que todas las materias prácticas tengan el lugar adecuado para desarrollarse, incluso aquellas que no pudieron ser asignadas a otros laboratorios.\n\nCaracterísticas principales:\n",
+    "description": "El laboratorio de usos múltiples cuenta con el equipo necesario de trabajo para realizar prácticas de química y física.",
     "functions": [
-      "Flexibilidad: Se adapta a las necesidades de diversas asignaturas a lo largo del semestre.",
-      "Equipo especializado: Cuenta con computadoras y software actualizados, alineados con los requerimientos específicos de las materias impartidas.",
-      "Cumplimiento académico: Asegura que se cubran las horas prácticas establecidas en el programa educativo."
     ],
     "postdescription":"Este laboratorio es un ejemplo de cómo la institución garantiza que cada estudiante tenga acceso a los recursos necesarios para su formación profesional, fomentando un ambiente propicio para el aprendizaje.",
     "galery": [
@@ -175,8 +173,7 @@
     ],
     "postdescription":"Este laboratorio es un espacio donde desarrollarás tus habilidades comunicativas en inglés para mejorar tu perfil académico y profesional.",
     "galery": [
-      "edificio_neza_a9_laboratorio_ingles_1",
-      "edificio_neza_a9_laboratorio_ingles_2"
+      "edificio_neza_a9_laboratorio_ingles_1"
     ],
     "category": "",
     "building": 1,
@@ -229,7 +226,7 @@
     "id": 15,
     "name": "Laboratorio Manufactura Avanzada(F5)",
     "image":"edificio_revolucion_f5",
-    "description": "Ubicado en el Edificio Centenario de la Revolución, el Laboratorio de Manufactura Avanzada del TESCHA es un espacio equipado con tecnología de punta para el diseño y fabricación de piezas de alta precisión. Con una capacidad para 20 personas y cinco estaciones de trabajo, aquí aprenderás sobre procesos de manufactura sustractiva mediante máquinas CNC de última generación.\n\nAdemás, podrás experimentar con diseño asistido por computadora (CAD), simulación de procesos (CAE/CAM), programación CNC y fabricación real de piezas, aplicando conocimientos teóricos en un entorno práctico y profesional. ¡Un lugar ideal para desarrollar tus competencias en manufactura!",
+    "description": "Ubicado en el Edificio Centenario de la Revolución, el Laboratorio de Manufactura Avanzada del TESCHA es un espacio con cinco estaciones de trabajo, aquí aprenderás sobre procesos de manufactura sustractiva.\n\nAdemás, podrás experimentar con diseño asistido por computadora (CAD), simulación de procesos (CAE/CAM), programación CNC y fabricación real de piezas, aplicando conocimientos teóricos en un entorno práctico y profesional.\n\n¡Un lugar ideal para desarrollar tus competencias en manufactura!",
     "functions": [],
     "galery": [
       
@@ -243,31 +240,13 @@
     "id": 16,
     "name": "Laboratorio de Manufactura Convencional(F6)",
     "image":"edificio_revolucion_f6",
-    "description": "El Laboratorio F6 de Manufactura Convencional, parte de la Ingeniería en Electromecánica, es un espacio especializado para la fabricación de piezas y ensamblaje de equipos mediante procesos de arranque de material y soldadura. Aquí, los estudiantes aplican sus conocimientos en diseño y manufactura para crear piezas que cumplen con especificaciones precisas de tamaño, material y dimensión.\n\nÁreas y Equipamiento:\n\n",
+    "description": "El Laboratorio F6 de Manufactura Convencional, parte de la Ingeniería en Electromecánica, es un espacio especializado para la fabricación de piezas y ensamblaje de equipos mediante procesos de arranque de material y soldadura. Aquí, los estudiantes aplican sus conocimientos en diseño y manufactura para crear piezas que cumplen con especificaciones precisas de tamaño, material y dimensión. Cuenta con dos áreas de trabajo, el área de manufactura y el área de soldadura.\n\nAspectos destacados:",
     "functions": [
-      "Área de Manufactura:",
-      "Proceso dividido en diseño, corte y fabricación.",
-      "Equipos disponibles:",
-      "2 tornos convencionales (uno vertical y otro horizontal).",
-      "1 fresadora.",
-      "1 taladro de banco.",
-      "Área de Soldadura:",
-      "Espacio dedicado al ensamblaje de piezas utilizando procesos de soldadura.",
-      "Requiere el uso de equipo de seguridad como caretas, guantes y mandil.\n\n",
-      "Aspectos destacados:",
       "Enfoque práctico: Ideal para materias como Procesos de Manufactura y proyectos estudiantiles, permitiendo a los alumnos diseñar y construir sus propios equipos.",
-      "Seguridad: Es obligatorio portar equipo de protección (lentes, guantes, zapatos especiales) para garantizar un entorno de trabajo seguro."
-
+      "Seguridad: Es obligatorio portar equipo de protección (lentes, guantes, zapatos especiales) para garantizar un entorno de trabajo seguro"
     ],
     "postdescription":"\n\nEl laboratorio F6 ofrece a los estudiantes la oportunidad de materializar sus ideas y adquirir experiencia práctica en el uso de maquinaria convencional y técnicas de soldadura, preparándolos para los retos de la industria.",
     "galery": [
-      "edificio_revolucion_f6_interior_1",
-      "edificio_revolucion_f6_interior_2",
-      "edificio_revolucion_f6_interior_3",
-      "edificio_revolucion_f6_interior_4",
-      "edificio_revolucion_f6_interior_5",
-      "edificio_revolucion_f6_interior_6",
-      "edificio_revolucion_f6_interior_7",
       "edificio_revolucion_f6"
     ],
     "category": "",
@@ -293,12 +272,9 @@
     "id": 18,
     "name": "Laboratorio de Térmicas(F8)",
     "image":"edificio_revolucion_f8",
-    "description": "El Laboratorio de Térmicas es un espacio especializado diseñado para las asignaturas de termodinámica, transferencia de calor y sistemas de refrigeración, impartidas en la Ingeniería en Electromecánica. Aquí tendrás acceso a equipos modulares en funcionamiento, como torres de enfriamiento, intercambiadores de calor y sistemas de refrigeración, además de un túnel de viento y un sistema de ciclo Rankine.\n\nA partir del cuarto semestre, este laboratorio se convierte en una herramienta clave para tu aprendizaje práctico. Te permitirá explorar conceptos como los estilos de transferencia de calor, energía alterna y el estudio de sustancias puras, además de realizar prácticas relacionadas con máquinas y equipos térmicos.\n\nEn colaboración con tus docentes, también aprenderás a dar mantenimiento a los equipos, desarrollando habilidades esenciales para tu formación profesional. Este espacio está diseñado para que pongas en práctica los conocimientos adquiridos y avances en las competencias de tu carrera. ¡Descubre el potencial del Laboratorio de Térmicas y lleva tus habilidades al siguiente nivel!",
+    "description": "El Laboratorio de Térmicas es un espacio especializado diseñado para las asignaturas de termodinámica, transferencia de calor y sistemas de refrigeración, impartidas en la Ingeniería en Electromecánica. Aquí tendrás acceso a equipos modulares en funcionamiento.\n\nA partir del cuarto semestre, este laboratorio se convierte en una herramienta clave para tu aprendizaje práctico. Te permitirá explorar conceptos como los estilos de transferencia de calor, energía alterna y el estudio de sustancias puras, además de realizar prácticas relacionadas con máquinas y equipos térmicos.\n\nEn colaboración con tus docentes, también aprenderás a dar mantenimiento a los equipos, desarrollando habilidades esenciales para tu formación profesional. Este espacio está diseñado para que pongas en práctica los conocimientos adquiridos y avances en las competencias de tu carrera.\n\n¡Descubre el potencial del Laboratorio de Térmicas y lleva tus habilidades al siguiente nivel!",
     "functions": [],
     "galery": [
-      "edificio_revolucion_f8_interior_1",
-      "edificio_revolucion_f8_interior_2",
-      "edificio_revolucion_f8_interior_3",
       "edificio_revolucion_f8"
     ],
     "category": "",
@@ -347,7 +323,7 @@
     "id": 21, 
     "name": "Laboratorio de Integración de Sistemas de Ingeniería (LISI)(G4)",
     "image":"edificio_sor_juana_g4",
-    "description": "En este laboratorio podrás integrar conocimientos de diversas áreas de ingeniería para llevar tus aprendizajes a la práctica. Aquí se imparten materias clave como Introducción a la Programación, Estadística y Probabilidad, Control y Programación con MATLAB, e Instalaciones Eléctricas, utilizando software y herramientas especializadas que enriquecen tu formación profesional.\n\nEquipado con 15 computadoras, controladores industriales (PLC), tableros de control, equipos de neumática y kits didácticos para electrónica analógica y digital, este espacio es ideal para desarrollar proyectos innovadores y adquirir habilidades técnicas esenciales.\n\n¡Descubre cómo aplicar tus conocimientos en un entorno que fomenta la creatividad y la resolución de problemas reales!",
+    "description": "En este laboratorio podrás integrar conocimientos de diversas áreas de ingeniería para llevar tus aprendizajes a la práctica. Aquí se imparten materias clave como Introducción a la Programación, Estadística y Probabilidad, Control y Programación con MATLAB, e Instalaciones Eléctricas, utilizando software y herramientas especializadas que enriquecen tu formación profesional.\n\n¡Descubre cómo aplicar tus conocimientos en un entorno que fomenta la creatividad y la resolución de problemas reales!",
     "functions": [],
     "galery": [
       
@@ -361,7 +337,7 @@
     "id": 22,
     "name": "Laboratorio de Pruebas mecánicas Destructivas y no Destructivas(G5)",
     "image":"edificio_sor_juana_g5",
-    "description": "Ubicado en la planta baja del Edificio Sor Juana Inés de la Cruz, este laboratorio, adscrito a la Ingeniería en Electromecánica, es el espacio donde se realizan pruebas mecánicas avanzadas. Aquí podrás realizar ensayos destructivos como tensión, compresión, impacto, dureza y análisis metalográfico, utilizando equipo especializado para estudiar las propiedades y comportamiento de diversos materiales.\n\nAdemás, el laboratorio cuenta con equipos de física para realizar pruebas dinámicas, de óptica y de flexión, brindándote un entorno práctico para aplicar tus conocimientos y desarrollar competencias esenciales en el análisis de materiales. ¡Explora la ciencia detrás de la resistencia y el diseño de materiales!",
+    "description": "Ubicado en la planta baja del Edificio Sor Juana Inés de la Cruz, este laboratorio, adscrito a la Ingeniería en Electromecánica, es el espacio donde se realizan pruebas mecánicas avanzadas. Aquí podrás realizar ensayos destructivos como tensión, compresión, impacto, dureza y análisis metalográfico, utilizando equipo especializado para estudiar las propiedades y comportamiento de diversos materiales.\n\nEl laboratorio te brinda un entorno práctico para aplicar tus conocimientos y desarrollar competencias esenciales en el análisis de materiales.\n\n¡Explora la ciencia detrás de la resistencia y el diseño de materiales!",
     "functions": [],
     "galery": [
       
@@ -375,7 +351,7 @@
     "id": 23,
     "name": "Parque Laboratorio Eólico/Solar(G6)",
     "image":"edificio_sor_juana_g6",
-    "description": "Descubre cómo se genera energía limpia en el Parque Eólico/Solar del TESCHA, un espacio diseñado para aprender sobre fuentes renovables. Este laboratorio combina tecnología avanzada en energía eólica y solar para ofrecer una experiencia práctica única.\n\nEl parque cuenta con dos generadores eólicos de 3.5 kW en funcionamiento y 16 paneles solares en la azotea del Edificio Sor Juana Inés de la Cruz, distribuidos entre silicio amorfo, cristalino y monocristalino. Además, incluye tres torres eólicas ubicadas detrás de los edificios Bicentenario y Sor Juana, ideales para analizar los principios de generación energética.\n\nSumérgete en el futuro de la energía sostenible y refuerza tus conocimientos sobre tecnología renovable. ¡Prepárate para ser parte del cambio hacia un mundo más limpio y eficiente!",
+    "description": "Descubre cómo se genera energía limpia en el Parque Eólico/Solar del TESCHA, un espacio diseñado para aprender sobre fuentes renovables. Este laboratorio combina tecnología avanzada en energía eólica y solar para ofrecer una experiencia práctica única.\n\nSumérgete en el futuro de la energía sostenible y refuerza tus conocimientos sobre tecnología renovable.\n\n¡Prepárate para ser parte del cambio hacia un mundo más limpio y eficiente!",
     "functions": [],
     "galery": [
       
@@ -411,11 +387,10 @@
     "id": 25,
     "name": "Laboratorio de Electrónica Analógica y Digital(G11)",
     "image":"edificio_sor_juana_g11",
-    "description": "Laboratorio ubicado en la planta alta del edificio Sor Juana Inés de la Cruz y perteneciente a la ingeniera en Electrónica, diseñamos, simulamos y fabricamos prototipos electrónicos utilizando tecnologías como microcontroladores, PLC y sistemas automatizados en redes industriales. Equipados con software especializado, módulos educativos y actuadores eléctricos, hidráulicos y neumáticos, ofreciendo un espacio ideal para prácticas en control y comunicaciones industriales.\n\n¡Explora, aprende y lleva tus conocimientos al siguiente nivel!",
+    "description": "Laboratorio ubicado en la planta alta del edificio Sor Juana Inés de la Cruz y perteneciente a la ingeniera en Electrónica, diseñamos, simulamos y fabricamos prototipos electrónicos utilizando tecnologías como microcontroladores, PLC y sistemas automatizados en redes industriales. Abastecido con software especializado, módulos educativos y actuadores eléctricos, hidráulicos y neumáticos, ofreciendo un espacio ideal para prácticas en control y comunicaciones industriales.\n\n¡Explora, aprende y lleva tus conocimientos al siguiente nivel!",
     "functions": [],
     "galery": [
-      "edificio_sor_juana_g11",
-      "edificio_sor_juana_g11_interior_1"
+      "edificio_sor_juana_g11"
     ],
     "category": "",
     "building": 5,
@@ -426,7 +401,7 @@
     "id": 26,
     "name": "Laboratorio de Simulación de Circuitos Electrónicos(G12)",
     "image":"edificio_sor_juana_g12",
-    "description": "Laboratorio ubicado en la planta alta del edificio Sor Juana Inés de la Cruz y perteneciente a la ingeniera en Electrónica, diseñamos, simulamos y fabricamos prototipos electrónicos utilizando tecnologías como microcontroladores, PLC y sistemas automatizados en redes industriales. Equipados con software especializado, módulos educativos y actuadores eléctricos, hidráulicos y neumáticos, ofreciendo un espacio ideal para prácticas en control y comunicaciones industriales.\n\n¡Explora, aprende y lleva tus conocimientos al siguiente nivel!",
+    "description": "Este espacio, perteneciente a la Ingeniería en Electrónica está diseñado para que desarrolles prácticas y sistemas electrónicos analógicos y digitales. Con la ayuda de equipo especializado, te permite realizar proyectos innovadores y tecnológicos que consideran el desarrollo sustentable.\n\n¡Conviértete en un creador de soluciones tecnológicas!",
     "functions": [],
     "galery": [
       
@@ -470,7 +445,6 @@
     ],
     "postdescription":"Además, el Laboratorio 5 tiene la flexibilidad de acoger otras materias en caso de requerirse, ampliando sus posibilidades de uso y fomentando un ambiente de aprendizaje colaborativo y dinámico.\nExplora y desarrolla tus habilidades en infraestructura, redes y programación en un espacio diseñado para potenciar tu formación profesional.\n\n¡Aprovecha al máximo las oportunidades que este laboratorio tiene para ofrecerte!",
     "galery": [
-      "edificio_morelos_laboratorio_5_interior_1",
       "edificio_morelos_laboratorio_5"
     ],
     "category": "", 
